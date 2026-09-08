@@ -10,7 +10,7 @@ from core import extract_audio, generate_srt, transcribe_audio
 from translator import translate_transcript
 
 app = FastAPI(
-    title="AI Dubbing Pipeline - Phase 2",
+    title="Phase 2- Translation Timing Engine",
     description="Universal endpoint for video transcription and cross-lingual translation.",
     version="2.0.0"
 )
