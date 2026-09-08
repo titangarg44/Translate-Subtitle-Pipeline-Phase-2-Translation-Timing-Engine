@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files & Generated Outputs
+*.mp4
+*.wav
+*.srt
+temp_*
+
+# Environment & Settings
+.env
+.vscode/
+.idea/

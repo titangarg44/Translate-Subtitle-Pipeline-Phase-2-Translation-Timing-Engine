@@ -1,4 +1,4 @@
-# 🎬 Phase 2: Translation & Timing Engine
+# 🎬 AI Dubbing Pipeline — Phase 2: Translation & Timing Engine
 
 An asynchronous FastAPI microservice that extracts audio from uploaded video files, transcribes spoken text using `faster-whisper`, translates dialogue across languages, and calculates timing/character metrics for AI dubbing voice sync.
 
